@@ -1,0 +1,176 @@
+##################################
+####### iter_70k.caffemodel ######
+Correct rate:6%
+total video number:50
+total correct video number3
+     correct	total	precision	
+Class0:0	6	0%	
+Class1:0	14	0%	
+Class2:0	0	NA%	
+Class3:0	14	0%	
+Class4:0	3	0%	
+Class5:0	6	0%	
+Class6:0	4	0%	
+Class7:3	3	100%	
+Class8:0	0	NA%	
+Class9:0	0	NA%	
+##################################
+####### iter_80k.caffemodel ######
+Correct rate:6%
+total video number:50
+total correct video number3
+     correct	total	precision	
+Class0:0	6	0%	
+Class1:0	14	0%	
+Class2:0	0	NA%	
+Class3:0	14	0%	
+Class4:0	3	0%	
+Class5:0	6	0%	
+Class6:0	4	0%	
+Class7:3	3	100%	
+Class8:0	0	NA%	
+Class9:0	0	NA%	
+##################################
+####### iter_90k.caffemodel ######
+Correct rate:6%
+total video number:50
+total correct video number3
+     correct	total	precision	
+Class0:0	6	0%	
+Class1:0	14	0%	
+Class2:0	0	NA%	
+Class3:0	14	0%	
+Class4:0	3	0%	
+Class5:0	6	0%	
+Class6:0	4	0%	
+Class7:3	3	100%	
+Class8:0	0	NA%	
+Class9:0	0	NA%	
+##################################
+####### iter_100k.caffemodel ######
+Correct rate:6%
+total video number:50
+total correct video number3
+     correct	total	precision	
+Class0:0	6	0%	
+Class1:0	14	0%	
+Class2:0	0	NA%	
+Class3:0	14	0%	
+Class4:0	3	0%	
+Class5:0	6	0%	
+Class6:0	4	0%	
+Class7:3	3	100%	
+Class8:0	0	NA%	
+Class9:0	0	NA%	
+##################################
+####### iter_110k.caffemodel ######
+Correct rate:6%
+total video number:50
+total correct video number3
+     correct	total	precision	
+Class0:0	6	0%	
+Class1:0	14	0%	
+Class2:0	0	NA%	
+Class3:0	14	0%	
+Class4:0	3	0%	
+Class5:0	6	0%	
+Class6:0	4	0%	
+Class7:3	3	100%	
+Class8:0	0	NA%	
+Class9:0	0	NA%	
+##################################
+####### iter_120k.caffemodel ######
+Correct rate:6%
+total video number:50
+total correct video number3
+     correct	total	precision	
+Class0:0	6	0%	
+Class1:0	14	0%	
+Class2:0	0	NA%	
+Class3:0	14	0%	
+Class4:0	3	0%	
+Class5:0	6	0%	
+Class6:0	4	0%	
+Class7:3	3	100%	
+Class8:0	0	NA%	
+Class9:0	0	NA%	
+##################################
+####### iter_130k.caffemodel ######
+Correct rate:6%
+total video number:50
+total correct video number3
+     correct	total	precision	
+Class0:0	6	0%	
+Class1:0	14	0%	
+Class2:0	0	NA%	
+Class3:0	14	0%	
+Class4:0	3	0%	
+Class5:0	6	0%	
+Class6:0	4	0%	
+Class7:3	3	100%	
+Class8:0	0	NA%	
+Class9:0	0	NA%	
+##################################
+####### iter_140k.caffemodel ######
+Correct rate:6%
+total video number:50
+total correct video number3
+     correct	total	precision	
+Class0:0	6	0%	
+Class1:0	14	0%	
+Class2:0	0	NA%	
+Class3:0	14	0%	
+Class4:0	3	0%	
+Class5:0	6	0%	
+Class6:0	4	0%	
+Class7:3	3	100%	
+Class8:0	0	NA%	
+Class9:0	0	NA%	
+##################################
+####### iter_150k.caffemodel ######
+Correct rate:6%
+total video number:50
+total correct video number3
+     correct	total	precision	
+Class0:0	6	0%	
+Class1:0	14	0%	
+Class2:0	0	NA%	
+Class3:0	14	0%	
+Class4:0	3	0%	
+Class5:0	6	0%	
+Class6:0	4	0%	
+Class7:3	3	100%	
+Class8:0	0	NA%	
+Class9:0	0	NA%	
+##################################
+####### iter_160k.caffemodel ######
+Correct rate:6%
+total video number:50
+total correct video number3
+     correct	total	precision	
+Class0:0	6	0%	
+Class1:0	14	0%	
+Class2:0	0	NA%	
+Class3:0	14	0%	
+Class4:0	3	0%	
+Class5:0	6	0%	
+Class6:0	4	0%	
+Class7:3	3	100%	
+Class8:0	0	NA%	
+Class9:0	0	NA%	
+##################################
+####### iter_170k.caffemodel ######
+Correct rate:6%
+total video number:50
+total correct video number3
+     correct	total	precision	
+Class0:0	6	0%	
+Class1:0	14	0%	
+Class2:0	0	NA%	
+Class3:0	14	0%	
+Class4:0	3	0%	
+Class5:0	6	0%	
+Class6:0	4	0%	
+Class7:3	3	100%	
+Class8:0	0	NA%	
+Class9:0	0	NA%	

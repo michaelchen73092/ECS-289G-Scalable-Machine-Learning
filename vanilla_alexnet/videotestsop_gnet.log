@@ -1,0 +1,336 @@
+#######Video Accuracy Rate #######
+Correct rate:66.0%
+total video number:50
+total correct video number:33
+##################################
+#######Frame Accuracy Rate #######
+Number of correct frames:11030
+Number of total frames:15164
+Frame Accuracy Rate:72.7380638354%
+##################################
+     correct	total	precision	
+Class0:0	6	0%	
+Class1:4	14	28%	
+Class2:0	0	NA%	
+Class3:14	14	100%	
+Class4:3	3	100%	
+Class5:6	6	100%	
+Class6:3	4	75%	
+Class7:3	3	100%	
+Class8:0	0	NA%	
+Class9:0	0	NA%	
+##################################
+#######Video Accuracy Rate #######
+Correct rate:60.0%
+total video number:50
+total correct video number:30
+##################################
+#######Frame Accuracy Rate #######
+Number of correct frames:10878
+Number of total frames:15164
+Frame Accuracy Rate:71.7356897916%
+##################################
+     correct	total	precision	
+Class0:0	6	0%	
+Class1:1	14	7%	
+Class2:0	0	NA%	
+Class3:14	14	100%	
+Class4:3	3	100%	
+Class5:6	6	100%	
+Class6:3	4	75%	
+Class7:3	3	100%	
+Class8:0	0	NA%	
+Class9:0	0	NA%	
+##################################
+##################################
+####### iter_60k.caffemodel ######
+#######Video Accuracy Rate #######
+Correct rate:62.0%
+total video number:50
+total correct video number:31
+##################################
+#######Frame Accuracy Rate #######
+Number of correct frames:10953
+Number of total frames:15164
+Frame Accuracy Rate:72.2302822474%
+##################################
+     correct	total	precision	
+Class0:0	6	0%	
+Class1:2	14	14%	
+Class2:0	0	NA%	
+Class3:14	14	100%	
+Class4:3	3	100%	
+Class5:6	6	100%	
+Class6:3	4	75%	
+Class7:3	3	100%	
+Class8:0	0	NA%	
+Class9:0	0	NA%	
+##################################
+####new iteration start from now
+
+
+##################################
+##################################
+####### iter_70k.caffemodel ######
+#######Video Accuracy Rate #######
+Correct rate:64.0%
+total video number:50
+total correct video number:32
+##################################
+#######Frame Accuracy Rate #######
+Number of correct frames:11094
+Number of total frames:15164
+Frame Accuracy Rate:73.1601160644%
+##################################
+     correct	total	precision	
+Class0:0	6	0%	
+Class1:3	14	21%	
+Class2:0	0	NA%	
+Class3:14	14	100%	
+Class4:3	3	100%	
+Class5:6	6	100%	
+Class6:3	4	75%	
+Class7:3	3	100%	
+Class8:0	0	NA%	
+Class9:0	0	NA%	
+##################################
+##################################
+####### iter_80k.caffemodel ######
+#######Video Accuracy Rate #######
+Correct rate:64.0%
+total video number:50
+total correct video number:32
+##################################
+#######Frame Accuracy Rate #######
+Number of correct frames:11087
+Number of total frames:15164
+Frame Accuracy Rate:73.1139541018%
+##################################
+     correct	total	precision	
+Class0:0	6	0%	
+Class1:3	14	21%	
+Class2:0	0	NA%	
+Class3:14	14	100%	
+Class4:3	3	100%	
+Class5:6	6	100%	
+Class6:3	4	75%	
+Class7:3	3	100%	
+Class8:0	0	NA%	
+Class9:0	0	NA%	
+##################################
+##################################
+####### iter_90k.caffemodel ######
+#######Video Accuracy Rate #######
+Correct rate:64.0%
+total video number:50
+total correct video number:32
+##################################
+#######Frame Accuracy Rate #######
+Number of correct frames:11117
+Number of total frames:15164
+Frame Accuracy Rate:73.3117910841%
+##################################
+     correct	total	precision	
+Class0:0	6	0%	
+Class1:3	14	21%	
+Class2:0	0	NA%	
+Class3:14	14	100%	
+Class4:3	3	100%	
+Class5:6	6	100%	
+Class6:3	4	75%	
+Class7:3	3	100%	
+Class8:0	0	NA%	
+Class9:0	0	NA%	
+##################################
+##################################
+####### iter_100k.caffemodel ######
+#######Video Accuracy Rate #######
+Correct rate:62.0%
+total video number:50
+total correct video number:31
+##################################
+#######Frame Accuracy Rate #######
+Number of correct frames:11072
+Number of total frames:15164
+Frame Accuracy Rate:73.0150356107%
+##################################
+     correct	total	precision	
+Class0:0	6	0%	
+Class1:2	14	14%	
+Class2:0	0	NA%	
+Class3:14	14	100%	
+Class4:3	3	100%	
+Class5:6	6	100%	
+Class6:3	4	75%	
+Class7:3	3	100%	
+Class8:0	0	NA%	
+Class9:0	0	NA%	
+##################################
+##################################
+####### iter_110k.caffemodel ######
+#######Video Accuracy Rate #######
+Correct rate:62.0%
+total video number:50
+total correct video number:31
+##################################
+#######Frame Accuracy Rate #######
+Number of correct frames:11063
+Number of total frames:15164
+Frame Accuracy Rate:72.955684516%
+##################################
+     correct	total	precision	
+Class0:0	6	0%	
+Class1:2	14	14%	
+Class2:0	0	NA%	
+Class3:14	14	100%	
+Class4:3	3	100%	
+Class5:6	6	100%	
+Class6:3	4	75%	
+Class7:3	3	100%	
+Class8:0	0	NA%	
+Class9:0	0	NA%	
+##################################
+##################################
+####### iter_120k.caffemodel ######
+#######Video Accuracy Rate #######
+Correct rate:66.0%
+total video number:50
+total correct video number:33
+##################################
+#######Frame Accuracy Rate #######
+Number of correct frames:11100
+Number of total frames:15164
+Frame Accuracy Rate:73.1996834608%
+##################################
+     correct	total	precision	
+Class0:0	6	0%	
+Class1:4	14	28%	
+Class2:0	0	NA%	
+Class3:14	14	100%	
+Class4:3	3	100%	
+Class5:6	6	100%	
+Class6:3	4	75%	
+Class7:3	3	100%	
+Class8:0	0	NA%	
+Class9:0	0	NA%	
+##################################
+##################################
+####### iter_130k.caffemodel ######
+#######Video Accuracy Rate #######
+Correct rate:64.0%
+total video number:50
+total correct video number:32
+##################################
+#######Frame Accuracy Rate #######
+Number of correct frames:11130
+Number of total frames:15164
+Frame Accuracy Rate:73.3975204432%
+##################################
+     correct	total	precision	
+Class0:0	6	0%	
+Class1:3	14	21%	
+Class2:0	0	NA%	
+Class3:14	14	100%	
+Class4:3	3	100%	
+Class5:6	6	100%	
+Class6:3	4	75%	
+Class7:3	3	100%	
+Class8:0	0	NA%	
+Class9:0	0	NA%	
+##################################
+##################################
+####### iter_140k.caffemodel ######
+#######Video Accuracy Rate #######
+Correct rate:62.0%
+total video number:50
+total correct video number:31
+##################################
+#######Frame Accuracy Rate #######
+Number of correct frames:11098
+Number of total frames:15164
+Frame Accuracy Rate:73.1864943287%
+##################################
+     correct	total	precision	
+Class0:0	6	0%	
+Class1:2	14	14%	
+Class2:0	0	NA%	
+Class3:14	14	100%	
+Class4:3	3	100%	
+Class5:6	6	100%	
+Class6:3	4	75%	
+Class7:3	3	100%	
+Class8:0	0	NA%	
+Class9:0	0	NA%	
+##################################
+##################################
+####### iter_150k.caffemodel ######
+#######Video Accuracy Rate #######
+Correct rate:62.0%
+total video number:50
+total correct video number:31
+##################################
+#######Frame Accuracy Rate #######
+Number of correct frames:11090
+Number of total frames:15164
+Frame Accuracy Rate:73.1337378001%
+##################################
+     correct	total	precision	
+Class0:0	6	0%	
+Class1:2	14	14%	
+Class2:0	0	NA%	
+Class3:14	14	100%	
+Class4:3	3	100%	
+Class5:6	6	100%	
+Class6:3	4	75%	
+Class7:3	3	100%	
+Class8:0	0	NA%	
+Class9:0	0	NA%	
+##################################
+##################################
+####### iter_160k.caffemodel ######
+#######Video Accuracy Rate #######
+Correct rate:62.0%
+total video number:50
+total correct video number:31
+##################################
+#######Frame Accuracy Rate #######
+Number of correct frames:11095
+Number of total frames:15164
+Frame Accuracy Rate:73.1667106304%
+##################################
+     correct	total	precision	
+Class0:0	6	0%	
+Class1:2	14	14%	
+Class2:0	0	NA%	
+Class3:14	14	100%	
+Class4:3	3	100%	
+Class5:6	6	100%	
+Class6:3	4	75%	
+Class7:3	3	100%	
+Class8:0	0	NA%	
+Class9:0	0	NA%	
+##################################
+##################################
+####### iter_170k.caffemodel ######
+#######Video Accuracy Rate #######
+Correct rate:62.0%
+total video number:50
+total correct video number:31
+##################################
+#######Frame Accuracy Rate #######
+Number of correct frames:11094
+Number of total frames:15164
+Frame Accuracy Rate:73.1601160644%
+##################################
+     correct	total	precision	
+Class0:0	6	0%	
+Class1:2	14	14%	
+Class2:0	0	NA%	
+Class3:14	14	100%	
+Class4:3	3	100%	
+Class5:6	6	100%	
+Class6:3	4	75%	
+Class7:3	3	100%	
+Class8:0	0	NA%	
+Class9:0	0	NA%	
+##################################

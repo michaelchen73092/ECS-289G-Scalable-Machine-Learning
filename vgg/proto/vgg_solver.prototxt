@@ -1,0 +1,23 @@
+#net: "models/bvlc_googlenet/train_val.prototxt"
+train_net: "./proto/vgg_train.prototxt"
+#test_iter: 1000
+#test_interval: 4000
+#test_initialization: false
+display: 40
+average_loss: 40
+#base_lr: 0.01 
+base_lr: 0.0001 
+#lr_policy: "poly"
+lr_policy: "step"
+#power: 0.5 for "poly"
+stepsize: 65000
+gamma: 0.1 #after stepsize decrease learning rate
+#max_iter: 2400000
+max_iter: 200000
+momentum: 0.9
+weight_decay: 0.0002
+#snapshot: 40000
+snapshot: 10000
+snapshot_prefix: "snapshot/caffe_vgg_10output"
+solver_mode: GPU
+device_id: 0
